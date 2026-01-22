@@ -9,8 +9,3 @@ Ali Saraeb · saraeb.1@osu.edu
 
 
 ---
-
-### How to make the note links work
-1. In your GitHub repo, create a folder named **`notes`**.
-2. Upload your PDFs there (example: `notes/week1-vectors.pdf`).
-3. Make sure the filename in the README matches **exactly** (case-sensitive).
