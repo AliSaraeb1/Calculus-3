@@ -5,14 +5,8 @@ Ali Saraeb · saraeb.1@osu.edu
 
 ## Materials
 
-- **Topic: Vectors & 3D Geometry** — [Notes](notes/week1-vectors.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
-- **Topic: Partial Derivatives** — [Notes](notes/week2-partials.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
-- **Topic: Double Integrals** — [Notes](notes/week3-double-integrals.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
-- **Topic: Triple Integrals** — [Notes](notes/week4-triple-integrals.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
-- **Topic: Vector Fields & Line Integrals** — [Notes](notes/week5-line-integrals.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
-- **Topic: Green’s Theorem** — [Notes](notes/week6-greens.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
-- **Topic: Stokes’ Theorem** — [Notes](notes/week7-stokes.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
-- **Topic: Divergence Theorem** — [Notes](notes/week8-divergence.pdf), [YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
+- **Topic: Lagrange Multipliers** — [Notes](Lagrange%20Multiplier.pdf), [YouTube](YOUR_YOUTUBE_LINK)
+
 
 ---
 
