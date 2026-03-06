@@ -9,4 +9,5 @@ Ali Saraeb · saraeb.1@osu.edu
 - **Topic: Double integral over general reigon** — [Notes](Double%20integral%20over%20general%20reigon.pdf), [YouTube (link updated)](https://www.youtube.com/watch?v=N9CSbh8nO1c&t=9s)
 - **Topic: Review session1** — [Notes](Review%20Session.pdf)
 - **Topic: Mock test on triple integrals** — [Notes](Triple%20int%20mock%20test.pdf), [YouTube for solution](https://www.youtube.com/watch?v=lQEd_a1LOTo)
+- **Topic: Change of Variables** — [Notes](changeOfVariables.pdf)
 ---
