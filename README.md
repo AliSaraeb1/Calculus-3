@@ -10,4 +10,5 @@ Ali Saraeb · saraeb.1@osu.edu
 - **Topic: Review session1** — [Notes](Review%20Session.pdf)
 - **Topic: Mock test on triple integrals** — [Notes](Triple%20int%20mock%20test.pdf), [YouTube for solution](https://www.youtube.com/watch?v=lQEd_a1LOTo)
 - **Topic: Change of Variables** — [Notes](changeOfVariables.pdf)
+- **Topic: Review Session Midterm 2** — [Notes](ReviewSessionMid2.pdf)
 ---
